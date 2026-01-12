@@ -119,6 +119,7 @@ services:
 ### Управление Сервисом 
 Запуск: 
 cd /home/minecraft/minecraft-server
+### Старт
 docker-compose up -d
 ### Остановка 
 docker-compose down
