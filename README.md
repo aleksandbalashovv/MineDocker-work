@@ -41,6 +41,7 @@ Minecraft рассматривается как сервис, а не как о�
 ---
 
 ## Структура проекта
+```text
 /home/minecraft/minecraft-server
 ├── docker-compose.yml
 ├── data/
@@ -52,6 +53,7 @@ Minecraft рассматривается как сервис, а не как о�
 ├── logs/
 ├── scripts/
 └── CONTRACT.md
+```
 
 
 ### Разделение ответственности
